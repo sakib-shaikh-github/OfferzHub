@@ -1,0 +1,22 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-lifecycle-runtime-2.5.1-0 C:\Users\Sakib\.gradle\caches\transforms-3\07c2ba3a06cfb73d1aa33dddc8be8eaf\transformed\lifecycle-runtime-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-1 C:\Users\Sakib\.gradle\caches\transforms-3\1122fdc6294010f07f5f6320c12e087e\transformed\fragment-1.5.7\res
+io.flutter.plugins.googlesignin.google_sign_in_android-lifecycle-livedata-core-2.5.1-2 C:\Users\Sakib\.gradle\caches\transforms-3\18a049e1666f232681b5ce47e8b737d8\transformed\lifecycle-livedata-core-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-3 C:\Users\Sakib\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.8.0-4 C:\Users\Sakib\.gradle\caches\transforms-3\2fa18b2f544a798470f6ba6d29f55f60\transformed\core-1.8.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-5 C:\Users\Sakib\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\Sakib\.gradle\caches\transforms-3\9a4c42a239bca23c70e5226d3baa44ba\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-activity-1.5.1-7 C:\Users\Sakib\.gradle\caches\transforms-3\9c1f14245dce1e9c0fd09f5020566de4\transformed\jetified-activity-1.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-savedstate-1.2.0-8 C:\Users\Sakib\.gradle\caches\transforms-3\a0f4d0718be692fa5a0611069e00afdd\transformed\jetified-savedstate-1.2.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-9 C:\Users\Sakib\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-10 C:\Users\Sakib\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-lifecycle-viewmodel-2.5.1-11 C:\Users\Sakib\.gradle\caches\transforms-3\d53cbf6cb18d6f9a0ad528f0a013ab62\transformed\lifecycle-viewmodel-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-21.0.0-12 C:\Users\Sakib\.gradle\caches\transforms-3\e8e1d0cff263cb15cfb2e1af9e57d2ec\transformed\jetified-play-services-auth-21.0.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.2.0-13 C:\Users\Sakib\.gradle\caches\transforms-3\f5aeeb70e4aa208ac830e747eaf33ddc\transformed\jetified-play-services-basement-18.2.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-14 C:\Users\Sakib\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.22\android\src\main\res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-15 C:\Users\Sakib\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.22\android\src\release\res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-16 D:\Learning_Programming\Flutter lesgo\offers_hub\build\google_sign_in_android\generated\res\pngs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-17 D:\Learning_Programming\Flutter lesgo\offers_hub\build\google_sign_in_android\generated\res\resValues\release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-18 D:\Learning_Programming\Flutter lesgo\offers_hub\build\google_sign_in_android\generated\res\rs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-19 D:\Learning_Programming\Flutter lesgo\offers_hub\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-20 D:\Learning_Programming\Flutter lesgo\offers_hub\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-21 D:\Learning_Programming\Flutter lesgo\offers_hub\build\google_sign_in_android\intermediates\merged_res\release

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/covid_striip"
+    android:background="@drawable/mappls_maps_strip_bg"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="8dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="8dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/action_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:src="@drawable/mappls_maps_arrow_down" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/action_button"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/covid_strip_title"
+                style="@style/SafetyTitleTextAppearance"
+                android:drawablePadding="5dp"
+                android:fontFamily="sans-serif-medium"
+                tools:text="COVID-19 Safety" />
+
+            <TextView
+                android:id="@+id/covid_strip_subtitle"
+                style="@style/SafetySubTitleTextAppearance"
+                android:fontFamily="sans-serif-medium"
+                tools:text="Check whether you are " />
+
+            <TextView
+                android:id="@+id/covid_strip_sub_subtitle"
+                style="@style/SafetySubTitleTextAppearance"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                tools:text="Location:" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/covid_strip_map_link"
+            style="@style/SafetySubTitleTextAppearance"
+            android:fontFamily="sans-serif-medium"
+            tools:text="Map link" />
+
+        <TextView
+            android:id="@+id/covid_strip_district_name"
+            style="@style/SafetySubTitleTextAppearance"
+            android:fontFamily="sans-serif-medium"
+            tools:text="District name" />
+    </LinearLayout>
+
+
+</LinearLayout>

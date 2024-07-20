@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_user_stroke_icon.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_user_stroke_icon.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_user_icon_stale.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_user_icon_stale.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_user_bearing_icon.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_user_bearing_icon.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_info_icon_default.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_info_icon_default.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_arrow_down.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_arrow_down.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_info_icon_selected.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_info_icon_selected.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_user_puck_icon.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_user_puck_icon.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_user_icon.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_user_icon.xml"
+    },
+    {
+        "merged": "com.mappls.sdk.maps.flutter.mappls_gl-merged_res-27:/drawable-anydpi-v21/mappls_maps_compass_icon.xml",
+        "source": "com.mappls.sdk.maps.flutter.mappls_gl-jetified-mappls-android-sdk-8.1.1-18:/drawable-anydpi-v21/mappls_maps_compass_icon.xml"
+    }
+]
